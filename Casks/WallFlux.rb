@@ -1,4 +1,4 @@
-cask "wallflux" do
+cask "WallFlux" do
   version "1.0.1"
   sha256 "86f43da8833301914be64599b2d113006c50f9a0f50f8b401a2bfa6a67c9f0fc"
 
