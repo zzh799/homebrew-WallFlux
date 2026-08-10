@@ -1,6 +1,6 @@
 cask "wallflux" do
-  version "1.7.1"
-  sha256 "aeb4c910b8e323afb2cb1a15b5427f0f341fc1ecfaf51e25ff8d4ae62d53b779"
+  version "1.8.1"
+  sha256 "cb5e46f0c344f736c28d39818f40a108f72234f687530004626ce7607798e416"
 
   url "https://github.com/zzh799/WallFlux/releases/download/v#{version}/WallFlux-#{version}.dmg",
       verified: "github.com/zzh799/WallFlux/"
